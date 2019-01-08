@@ -1,0 +1,2 @@
+https://www.dropbox.com/s/aa7zgrfem14buos/entity_vector.model.bin?dl=0
+こちらから学習済みのモデルデータをダウンロードしてpythonのファイルと同じディレクトリに入れてください！！！
